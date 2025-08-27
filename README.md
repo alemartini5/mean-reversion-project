@@ -62,8 +62,3 @@ The strategy is implemented in Python and validated using **walk-forward analysi
 - Add advanced execution logic (dynamic position sizing)  
 - Explore other mean-reversion indicators (Bollinger Bands, Ornstein-Uhlenbeck models)  
 - Portfolio construction across multiple ETFs  
-
----
-
-## 📂 Repository Structure
-
