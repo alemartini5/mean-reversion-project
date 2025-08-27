@@ -37,7 +37,7 @@ The strategy is implemented in Python and validated using **walk-forward analysi
 - Walk-forward analysis shows **mixed performance** across windows:  
   - Some periods with positive Sharpe ratio  
   - Others with negative returns and drawdowns  
-- Confirms that **naïve mean reversion is not consistently profitable** without further refinements  
+- Comprehensive analysis shows limited robustness and unfavorable risk-adjusted returns, indicating the strategy is not suitable for deployment.  
 - Demonstrates importance of **robust validation and risk management**  
 
 ### Example Outputs:
