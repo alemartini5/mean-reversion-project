@@ -1,13 +1,13 @@
 # Mean Reversion Trading Strategy on US ETFs
 
-Explore mean reversion strategies using Z-scores of rolling returns as a hands-on exercise in quantitative trading, focusing on understanding **signal generation**, **backtesting**, and **performance evaluation**.  
+This project explores a mean reversion trading strategy applied to major US ETFs (SPY, QQQ, IWM). 
 The strategy is implemented in Python and validated using **walk-forward analysis** to minimize overfitting risk.  
 
 ---
 
 ## 📌 Project Overview
 
-- **Goal:** Test whether mean reversion signals based on Z-scores of rolling returns can generate excess returns.  
+- **Goal:** Explore mean reversion strategies using Z-scores of rolling returns as a hands-on exercise in quantitative trading, focusing on understanding signal generation, backtesting, and performance evaluation.   
 - **Assets:** SPY (S&P 500), QQQ (Nasdaq 100), IWM (Russell 2000).  
 - **Methodology:**
   - Calculate rolling mean & standard deviation of returns
